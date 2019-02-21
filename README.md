@@ -5,7 +5,7 @@ An automated accessibility testing tool based on the WCAG 2.0 guidelines
 This tool will:
 - Allow users to accurately assess their web products for accessibility against the WCAG 2.0 Guidelines to (at least) the AA standard.
 - Allow users to run from the command line 
-- Information users of a pass :white_check_mark:, fail :negative_squared_cross_mark: or near-pass :warning: for each guideline
+- Inform users of a pass :white_check_mark:, fail :negative_squared_cross_mark: or near-pass :warning: for each guideline
 - Be browser-agnostic
 - Be language-specific (HTML/JS)
 
